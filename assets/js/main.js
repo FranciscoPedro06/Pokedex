@@ -32,7 +32,7 @@ fetch(url)
       const pokemon = pokemonList[i];
       console.log(convertPokemonToLi(pokemon))
 
-      console.log(document.getElementsByClassName("pokemons"))
+      console.log(document.getElementById("pokemonList"))
     }
 
   })
