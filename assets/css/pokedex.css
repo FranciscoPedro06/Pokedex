@@ -22,8 +22,12 @@
     background-color: #678fee;
 }
 
-.eletric {
+.electric {
     background-color: #f7cf2e;
+}
+
+.poison {
+    background-color: #a040a0;
 }
 
 .ice {
@@ -35,7 +39,7 @@
 }
 
 .flying {
-    background-color: #a040a0;
+    background-color: #a98ff0;
 }
 
 .fighting {
